@@ -24,7 +24,9 @@
 
 Welcome to the official repository for <em>When Personalization Legitimizes Risks: Uncovering Safety Vulnerabilities in Personalized Dialogue Agents</em>. We study intent legitimation, where seemingly benign user memories cause dialogue agents to become more compliant with harmful prompts. This release includes our code, data, and **PS-Bench**, a novel benchmark for probing safety risks in personalized dialogue systems.
 
-
+<p align="center">
+  <img src="figs/PS-Bench.png" alt="PS-Bench overview"/>
+</p>
 
 ---
 
