@@ -93,7 +93,9 @@ Follow the example script at `evaluation/scripts/safety_tests/example.sh`.
   - `benchmarking/data/processed/Harmful_Query_Set/`: Base setting harmful queries collected from PS-Bench.
   - `benchmarking/data/processed/Persona_Grounded_Harmful_Queries/`: Persona-grounded hard subset of PS-Bench, generated per role. *Note: These queries should be evaluated together with their corresponding persona configurations.*
 
+## Contact
 
+For any questions or feedback, please contact: [jhguo@ir.hit.edu.cn](jhguo@ir.hit.edu.cn)
 
 ---
 
